@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LijeshSubedi
 - 👀 I’m interested in computer languages and software development
-- 🌱 I’m currently learning ...python and java
-- 💞️ I’m looking to collaborate on ...game development
+- 🌱 I’m currently learning ...React js,express js,mongoDB
+- 💞️ I’m looking to collaborate on ...app development
 - 📫 How to reach me ...www.facebook.com/lijesh.subedi
 
 <!---
